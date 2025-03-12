@@ -1,0 +1,6 @@
+C:\Users\Vikingo\source\repos\NachoOpera\NachoOpera\bin\Debug\NachoOpera.dll
+C:\Users\Vikingo\source\repos\NachoOpera\NachoOpera\bin\Debug\NachoOpera.pdb
+C:\Users\Vikingo\source\repos\NachoOpera\NachoOpera\obj\Debug\NachoOpera.csproj.AssemblyReference.cache
+C:\Users\Vikingo\source\repos\NachoOpera\NachoOpera\obj\Debug\NachoOpera.csproj.CoreCompileInputs.cache
+C:\Users\Vikingo\source\repos\NachoOpera\NachoOpera\obj\Debug\NachoOpera.dll
+C:\Users\Vikingo\source\repos\NachoOpera\NachoOpera\obj\Debug\NachoOpera.pdb
